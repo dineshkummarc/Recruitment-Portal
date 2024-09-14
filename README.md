@@ -1,13 +1,9 @@
 ![VinnovateIT](image/vinnovateit.png)
 
-
 # [VinnovateIT](https://www.facebook.com/VinnovateIT/) - Recruitment Portal
-
-
 ### An online recruitment portal developed for recruitments of [VinnovateIT](https://vinnovateit.com/).
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/Recruitment-Portal.svg?logo=github&style=social)](https://vinitshahdeo.github.io/Recruitment-Portal/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Recruitment-Portal.svg?logo=git&style=social)](https://vinitshahdeo.github.io/Recruitment-Portal/) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Recruitment-Portal.svg?style=social&logo=github)](https://github.com/vinitshahdeo/Recruitment-Portal/blob/master/LICENSE)
-
 
 ```
 __     ___                             _       ___ _____ 
@@ -24,7 +20,6 @@ VinnovateIT help the members to develop their projects both technically as well 
 ![VinnovateIT Recruitment Portal](demo/vinnovateitgif.gif)
 
 > Stay connected with VinnovateIT's [Facebook](https://www.facebook.com/VinnovateIT/) page.
-
 
 ## Technology Stack Used
 
@@ -57,11 +52,8 @@ The source code of this project is written in **PHP**. So, you'll require **WAMP
 ## How to run?
 
 1. Download [this](https://github.com/vinitshahdeo/Recruitment-Portal/) repo and extract it in your **www/htdocs** directory. 
-
 2. Import the [database] i.e. `vinnovate.sql` from **db** folder.
-
 3. Configure `dbConnection.php` 
-
 4. Run **`localhost/{YOUR FOLDER NAME}`**
 
 > Check UI screenshots inside `screenshots` folder.
@@ -79,11 +71,9 @@ The source code of this project is written in **PHP**. So, you'll require **WAMP
 ```
 
 Feel free to contact me via [Facebook](https://www.facebook.com/vinit.shahdeo).
-
 Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@vinit.shahdeo&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/vinit.shahdeo)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@vinitshahdeo&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/vinitshahdeo/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vinitshahdeo&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vinitshahdeo/)
-
 
 ## License
 
@@ -98,13 +88,9 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 |                                                                                                                                        **[Vinit Shahdeo](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)**                                                                                                                                        |
 | <a href="https://twitter.com/Vinit_Shahdeo"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/vinit.shahdeo"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vinitshahdeo/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |
 
-
 ## Oh, Thanks!
 
 ```bash
-
-
-
  _____ _                 _     __   __            
 |_   _| |               | |    \ \ / /            
   | | | |__   __ _ _ __ | | __  \ V /___  _   _   
@@ -149,5 +135,4 @@ ______      _               _   _               _
   }
 
 ```
-
 ******
