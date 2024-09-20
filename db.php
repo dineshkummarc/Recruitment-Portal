@@ -1,4 +1,4 @@
 <?php 
-$conn=mysql_connect('localhost','root','');
-$db=mysql_select_db('2mylogin',$conn);
+$conn=mysqli_connect('localhost','root','mysql');
+$db=mysqli_select_db('2mylogin',$conn);
 ?>
